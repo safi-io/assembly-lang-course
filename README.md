@@ -1,7 +1,8 @@
 # Resources for course: Computer Organization and Assembly Language 
 # recluze.net 
 
-# See full video course (in Urdu language) here: https://www.youtube.com/watch?v=eobVpYqvMGE&list=PLnd7R4Mcw3rJCvAduQxyySvejtBIaPs0O 
+# See full video course (in Urdu language) here:
+https://www.youtube.com/watch?v=eobVpYqvMGE&list=PLnd7R4Mcw3rJCvAduQxyySvejtBIaPs0O 
 
 # To set up in Ubuntu 20.04+  
 
